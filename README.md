@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
+| [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
+| [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2483-minimum-penalty-for-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
