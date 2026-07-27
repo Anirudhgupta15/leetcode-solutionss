@@ -51,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
