@@ -59,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
