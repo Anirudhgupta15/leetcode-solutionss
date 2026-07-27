@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
