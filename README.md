@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
