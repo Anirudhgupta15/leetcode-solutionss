@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0027-remove-element) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
