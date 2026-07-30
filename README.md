@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0125-valid-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 ## Greedy
