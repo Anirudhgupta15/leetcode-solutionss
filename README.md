@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
