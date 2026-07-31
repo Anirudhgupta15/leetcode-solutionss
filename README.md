@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
 |  |
@@ -125,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
