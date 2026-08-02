@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
+| [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0002-add-two-numbers) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
