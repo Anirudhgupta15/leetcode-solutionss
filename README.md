@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
