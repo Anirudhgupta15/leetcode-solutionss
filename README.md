@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0357-count-numbers-with-unique-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0125-valid-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
