@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0125-valid-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -129,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
