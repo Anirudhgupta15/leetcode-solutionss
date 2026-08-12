@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
