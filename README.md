@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0624-maximum-distance-in-arrays) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -174,16 +177,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -200,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -221,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Anirudhgupta15/leetcode-solutionss/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
